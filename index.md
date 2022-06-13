@@ -7,6 +7,7 @@
 Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engagement and Services
 
 <center><img src="images/Excel_1.png"/></center>
+<center><img src="images/Excel_2.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
