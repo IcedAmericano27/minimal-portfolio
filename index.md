@@ -1,10 +1,10 @@
 # Portfolio
 ---
-## Natural Language Processing
+## EXCEL
 
-### CS224n: Natural Language Processing with Deep Learning
+### Boston AirBNB Open Data
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+Clean and Analyse Data to Give Recommendations for AIRBNB to Improve Host's Engagement and Services
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
