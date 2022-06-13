@@ -4,7 +4,7 @@
 
 ### Boston AirBNB Open Data
 
-Clean and Analyse Data to Give Recommendations for AIRBNB to Improve Host's Engagement and Services
+Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engagement and Services
 
 <center><img src="images/Excel_1.png"/></center>
 
