@@ -20,7 +20,7 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/TABLEAU.png"/></center>
 <br>
 
 ---
