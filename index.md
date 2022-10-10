@@ -17,6 +17,7 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 [![Open Web App](https://img.shields.io/badge/Tableau-View%20Dashboard-green)](https://public.tableau.com/app/profile/vy5086/viz/DataInetnsiveFinalDashboard/FinalDashboard)
 
 <div style="text-align: justify"> An interactive dashboard showing sales of all videos games around the world from 1980-2016
+<br> 
 <br>
 <center><img src="images/TABLEAU.png"/></center>
 <br>
@@ -25,8 +26,7 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 ## PYTHON
 ### EDA public data set using Python's Pandas
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-OpenNotebook-green))](http://localhost:8888/notebooks/Downloads/Github/Python/DataScience_Python.ipynb))
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-OpenNotebook-green)](http://localhost:8888/notebooks/Downloads/Github/Python/DataScience_Python.ipynb)
 
 <div style="text-align: justify">Data: public data set resulted from a survey conducted in late 2018 for a large Australian collective of IT professionals (with 7000 responses).
 <br>
