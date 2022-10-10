@@ -16,18 +16,19 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 
 [![Open Web App](https://img.shields.io/badge/Tableau-View%20Dashboard-green)](https://public.tableau.com/app/profile/vy5086/viz/DataInetnsiveFinalDashboard/FinalDashboard)
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify"> An interactive dashboard showing sales of all videos games around the world from 1980-2016
 <br>
 <center><img src="images/TABLEAU.png"/></center>
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+## PYTHON
+### EDA public data set using Python's Pandas
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-OpenNotebook-green))](http://localhost:8888/notebooks/Downloads/Github/Python/DataScience_Python.ipynb))
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">Data: public data set resulted from a survey conducted in late 2018 for a large Australian collective of IT professionals (with 7000 responses).
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
