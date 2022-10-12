@@ -21,9 +21,8 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 <br>
 <center><img src="images/TABLEAU.png"/></center>
 <br>
-
+  
 ---
-
 ## PYTHON
   
 ### EDA public data set using Python's Pandas
