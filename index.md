@@ -32,8 +32,8 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 
 <div style="text-align: justify">Data: public data set resulted from a survey conducted in late 2018 for a large Australian collective of IT professionals (with 7000 responses). A thorough analysis of particiants' demographic, education, employment, salary, tasks &tools via EDA skills, primarily through visualisation using Python's Pandas. Data quality also was assessed.
 <br>
-<center><img src="images/Gender_Title.png"/></center>
-<center><img src="images/Age_EmploymentStat.png"/></center>
+<left><img src="images/Gender_Title.png"/></left>
+<right><img src="images/Age_EmploymentStat.png"/></right>
 <center><img src="images/Satis_Title.png"/></center>
 <center><img src="images/Salary_Education.png"/></center>
 <center><img src="images/DS_CommonTasks.png"/></center>
