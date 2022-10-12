@@ -23,9 +23,9 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 <br>
 
 ---
-## PYTHON
+**## PYTHON**
   
-### EDA public data set using Python's Pandas
+**### EDA public data set using Python's Pandas**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-OpenNotebook-green)](http://localhost:8888/notebooks/Downloads/Github/Python/DataScience_Python.ipynb)
 
