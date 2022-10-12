@@ -36,5 +36,6 @@ Clean and Analyse Data to Give AirBnb Recommendations as to Improve Host's Engag
 <center><img src="images/DS2.png"/></center>
 <center><img src="images/DS_CommonTasks.png"/></center>
 <br>
----
-<center>© 2022 Vy Pham. Powered by Jekyll and the Minimal Theme.</center>
+
+  
+<center>© 2022 Powered by Jekyll and the Minimal Theme.</center>
